@@ -1,0 +1,2 @@
+Ayla Xelilli
+serverler.sh
